@@ -1,0 +1,10 @@
+Package                    Version
+-------------------------- ------------
+ale-py                     0.12.0
+AutoROM                    0.6.1
+AutoROM.accept-rom-license 0.6.1
+gymnasium                  1.3.0	and dependencies, make sure to install the gymnasium[other] as well as the atari environmets
+torch                      2.8.0+cu128	and dependencies
+tensorboard                2.21.0
+tensorboard-data-server    0.7.2
+numpy                      2.3.2
