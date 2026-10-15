@@ -1,0 +1,2 @@
+final_natureCNN2026_07_10_02_02.pt - Final trained model. Used for slides and live demo.
+natureCNN2026_07_10_02_00.pt	   - intermediate autosave. Was saved around the peak performance point. Might show better results.
